@@ -18,7 +18,7 @@ A modern, responsive personal homepage with Google-inspired design, featuring qu
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/personal-homepage)
+[View Live Demo](https://pawan9460r.github.io/homepage)
 
 ## 🛠️ Installation
 
