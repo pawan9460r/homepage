@@ -178,14 +178,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@your-twitter](https://twitter.com/your-twitter) - email@example.com
+Your Name - [Pawan Kumar](https://instagram.com/pawan.73719) - pawan.73719@gmail.com
 
-Project Link: [https://github.com/your-username/personal-homepage](https://github.com/your-username/personal-homepage)
+Project Link: [https://github.com/your-username/personal-homepage](https://github.com/pawan9460r)
 
 ## 🗂️ Related Projects
 
-- [Another Project](https://github.com/your-username/another-project)
-- [Portfolio Website](https://github.com/your-username/portfolio)
+- [Another Project](https://github.com/pawan9460r/school)
+- [Portfolio Website](https://pawan9460r.github.io/Portfolio)
 
 ---
 
