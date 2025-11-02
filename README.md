@@ -24,7 +24,7 @@ A modern, responsive personal homepage with Google-inspired design, featuring qu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/personal-homepage.git
+   git clone https://github.com/pawan9460r/homepage
    cd personal-homepage
    ```
 
